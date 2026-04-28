@@ -1,0 +1,11 @@
+2026-04-28 02:56:20,687 - WARNING - Haber bulunamadı
+2026-04-28 03:00:56,967 - WARNING - Haber bulunamadı
+2026-04-28 03:12:48,393 - INFO - Fetching Anasayfa from https://www.hurriyet.com.tr/rss/anasayfa
+2026-04-28 03:12:48,579 - INFO - Fetching Gündem from https://www.hurriyet.com.tr/rss/gundem
+2026-04-28 03:12:48,768 - INFO - Fetching Politika from https://www.hurriyet.com.tr/rss/politika
+2026-04-28 03:12:49,032 - WARNING - RSS parse hatası (Politika): <unknown>:2:4564: not well-formed (invalid token)
+2026-04-28 03:12:49,032 - INFO - Fetching Ekonomi from https://www.hurriyet.com.tr/rss/ekonomi
+2026-04-28 03:12:49,210 - INFO - Fetching Spor from https://www.hurriyet.com.tr/rss/spor
+2026-04-28 03:12:49,379 - INFO - Fetching Teknoloji from https://www.hurriyet.com.tr/rss/teknoloji
+2026-04-28 03:12:49,571 - INFO - Fetching Yaşam from https://www.hurriyet.com.tr/rss/yasam
+2026-04-28 03:12:49,735 - INFO - 114 yeni haber kaydedildi. Toplam: 114 haber
